@@ -15,4 +15,9 @@ https://www.5yun.org/13117.html
 
 ## 视频拷贝
 
+## 音频混流
+
 ## 图片处理
+
+## ref
+https://trac.ffmpeg.org/wiki
